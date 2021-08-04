@@ -1,0 +1,7 @@
+{
+  "name": "mod-mail",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "",
+  "prefix": "$"
+}
